@@ -1,0 +1,4 @@
+test_add_article_params:
+- ["技术类",True]
+- ["yingwen",True]
+- ["123456",True]
