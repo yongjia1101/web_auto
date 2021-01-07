@@ -21,7 +21,7 @@ idna==2.9
 importlib-metadata==1.6.0
 Jinja2==2.11.2
 kombu==3.0.37
-lxml==4.2.5
+lxml==4.6.2
 MarkupSafe==1.1.1
 more-itertools==8.2.0
 packaging==20.4
